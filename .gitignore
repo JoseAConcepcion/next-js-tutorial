@@ -1,0 +1,9 @@
+# Ignorar directorios generados por npm
+node_modules/
+npm-debug.log
+
+# Ignorar archivos de configuración locales
+.env
+
+# Ignorar archivos de dependencias
+package-lock.json
