@@ -1,5 +1,6 @@
 # Ignorar directorios generados por npm
 node_modules/
+.next/
 npm-debug.log
 
 # Ignorar archivos de configuración locales
