@@ -5,6 +5,7 @@ npm-debug.log
 
 # Ignorar archivos de configuración locales
 .env
-.next
+.next/
 # ignorar archivos de dependencias
 package-lock.json
+# package.json
